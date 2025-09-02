@@ -5,7 +5,7 @@ void main() {
   runApp(
     const Center(
       child: Text(
-      'Hello, wordl!',
+      'Hello, world!',
       textDirection: TextDriection.ltr,
       style: TextStyle(fontSize: 32, color: Colors.white),
     ),
